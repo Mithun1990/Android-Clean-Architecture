@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Clean Architecture</string>
+    <string name="active">Active</string>
+    <string name="super_active">Super Active</string>
+    <string name="to_date">To Date (yyyy-MM-dd)</string>
+    <string name="bored">Bored</string>
+    <string name="from_date">From Date (yyyy-MM-dd)</string>
+    <string name="serach">Search</string>
+    <string name="required_field">Required field</string>
+</resources>
